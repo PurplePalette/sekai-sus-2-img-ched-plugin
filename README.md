@@ -7,7 +7,7 @@ Support: Ched v3.2.0
 
 Download the latest release from [Releases](https://github.com/PurplePalette/sekai-sus-2-img-ched-plugin/releases/)  
 Extract the zip file and put the `SekaiSUS2img.dll` into the `Plugins` folder of Ched.  
-Put 'Microsoft.Web.WebView2.Core.dll', 'Microsoft.Web.WebView2.WinForms.dll' and 'WebView2Loader.dll' into the **root** of Ched.  
+Put `Microsoft.Web.WebView2.Core.dll`, `Microsoft.Web.WebView2.WinForms.dll` and `WebView2Loader.dll` into the **root** of Ched.  
 **root** means the folder where Ched.exe is located.
 
 ## How it works
